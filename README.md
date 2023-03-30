@@ -13,7 +13,7 @@
   </h1>
   
   <p align="center">
-    Sou Desenvolvedor Front End e gosto muito de aprender e colocar em pratica meus estudos sobre programação.
+    tenho 19 anos e sou desenvolvedor Front End e gosto muito de aprender e colocar em pratica meus estudos sobre programação.
     
   </p>
   
