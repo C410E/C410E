@@ -28,6 +28,7 @@
   <a href="https://github.com/C410E">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=C410E&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C410E&theme=dracula&hide_border=false&&layout=compact"/>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=C410E&theme=dracula" alt="C410E" />
   </a>
 </div>
 
