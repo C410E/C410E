@@ -9,7 +9,7 @@
   
   <h1 align="center">
     Oi Tudo bem? Eu sou o 
-    <a href="https://www.linkedin.com/in/caio-nepomuceno"> Caio Evandro😃️</a>
+    <a href="https://www.linkedin.com/in/caio-nepomuceno"> Caio Evandro👋</a>
   </h1>
   
   <p align="center">
