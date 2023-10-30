@@ -14,7 +14,7 @@
   
   <p align="center">
     Tenho 20 anos e sou desenvolvedor Front End e Back-end, gosto muito de aprender e colocar em pratica meus estudos sobre programação,
-    tenho conhecimentos em React, next, javaScript, TypeScript, nodeJs e SQL
+    tenho conhecimentos em React, next, javaScript, php, TypeScript, nodeJs e SQL
     
   </p>
   
